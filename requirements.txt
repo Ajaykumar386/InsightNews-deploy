@@ -1,2 +1,7 @@
 Flask
+flask-caching
 gunicorn
+pandas
+plotly
+joblib
+scikit-learn
